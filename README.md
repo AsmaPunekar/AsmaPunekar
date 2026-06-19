@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋 I'm Asma I. Punekar
 
-<!--
-**AsmaPunekar/AsmaPunekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Scientist | Machine Learning Engineer | Generative AI Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science professional transitioning into AI and Data Science, with hands-on experience in Machine Learning, Deep Learning, NLP, Computer Vision, Recommendation Systems, and Generative AI.
+
+---
+
+## Skills
+
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- NLP
+- Computer Vision
+- LangChain
+- Hugging Face
+- RAG
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+- Employee Turnover Prediction
+- Historical Structure Classification
+- HR Policy Chatbot (RAG)
+- Tourism Recommendation System
+- Flight Price Prediction
+- Sales Analysis
+- Sentiment Analysis
+- House Price Prediction
+
+---
+
+## Certifications
+
+- Professional Certificate Program in Generative AI and Machine Learning
+- IBM Python for Data Science
+- IBM Deep Learning with TensorFlow
+- Additional certifications in Data Science, Machine Learning, and AI form SimpliLearn
+
+---
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/asma-punekar-499395353/
+- Email: asma3.ds@gmail.com
+
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
